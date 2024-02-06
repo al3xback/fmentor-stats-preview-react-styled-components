@@ -8,7 +8,7 @@ const CardShell = styled.article`
 	width: 100%;
 	max-width: 28em;
 	background-color: hsl(244, 38%, 16%);
-	margin: 2.6666666667em 0 4em;
+	margin: 2em 0 4em;
 	border-radius: 8px;
 	overflow: hidden;
 
